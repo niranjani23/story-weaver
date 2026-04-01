@@ -1,0 +1,6 @@
+openai>=1.30.0
+streamlit>=1.40.0
+python-dotenv>=1.0.0
+streamlit-quill>=0.0.4
+keybert>=0.7.0
+sentence-transformers>=2.2.0
